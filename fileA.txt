@@ -1,3 +1,4 @@
 a = input()
 print(a)
 print('commit c6')
+print('commit c7')
